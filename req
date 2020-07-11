@@ -1,0 +1,3 @@
+install.packages("BRugs")
+
+Install OpenBUGS  > v3.2.3
